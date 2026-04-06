@@ -1,3 +1,6 @@
+# Ignore the Firebase configuration file
+lib/firebase_options.dart
+
 # Miscellaneous
 *.class
 *.log
